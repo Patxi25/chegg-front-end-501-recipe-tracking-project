@@ -1,0 +1,13 @@
+
+
+.recipe-create input,
+.recipe-create textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 6px;
+}
+
+.recipe-create textarea {
+  height: 80px;
+  resize: vertical;
+}
